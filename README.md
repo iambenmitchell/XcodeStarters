@@ -10,3 +10,9 @@ Please note: Use the projects at your own risk, my code is not the cleanest. If 
 |Current Projects| Version |
 |-|--|
 |Swipe pages | 1 |
+
+
+## Screenshots
+SwipePages
+![SwipePages1](https://github.com/MrBenFTW/XcodeStarters/blob/master/Screenshots/Swipe%20Pages/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-09-16%20at%2015.12.50.png)
+![SwipePages2](https://github.com/MrBenFTW/XcodeStarters/blob/master/Screenshots/Swipe%20Pages/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-09-16%20at%2015.12.55.png)
