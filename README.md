@@ -10,9 +10,9 @@ Please note: Use the projects at your own risk, my code is not the cleanest. If 
 |Current Projects| Version |
 |-|--|
 |Swipe pages | 1 |
+|Exit Keyboard | 1 |
 
-
-## Screenshots
-SwipePages
-![SwipePages1](https://github.com/MrBenFTW/XcodeStarters/blob/master/Screenshots/Swipe%20Pages/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-09-16%20at%2015.12.50.png)
-![SwipePages2](https://github.com/MrBenFTW/XcodeStarters/blob/master/Screenshots/Swipe%20Pages/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-09-16%20at%2015.12.55.png)
+## Swipe Pages
+With swipe pages, you can easily scroll between multiple views, I have added instructions in the file for how to configure the settings for your projects.
+## Exit Keyboard
+By default, you cannot escape `UITextField` to fix this download and add exit keyboard to your project and after selecting the Keyboard class on your view controller, you will be able to link the text field using `IBOutlets` and then you can tap to leave or press Done/Enter
